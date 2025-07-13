@@ -11,9 +11,7 @@ dotenv.config(); // Load environment variables
 const app = express();
 const PORT = 3000;
 
-app.get("/", (req, res) => {
-  res.send("QR Code Generator is running!");
-});
+
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
