@@ -18,7 +18,7 @@ A full-stack QR Code Generator web application built with **Node.js**, **Express
 
 ## 🔗 Live Demo
 
-[👉 View Live on Render](https://your-live-url.render.com)  
+[👉 View Live on Render](https://qr-code-generator-3zwd.onrender.com)  
 _(Replace with your actual Render URL)_
 
 ---
