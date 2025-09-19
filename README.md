@@ -114,10 +114,9 @@ Don't worry — Web3Forms keys are public-safe!
 Contributions are welcome! Feel free to fork this repo, make changes, and submit a pull request.
 
 
-## 🧑‍💻 Author
-Alok Thakur
+## 🧑‍💻 Sukumar Dangar
 
-[GitHub](https://github.com/alok9064)
+[GitHub](https://github.com/SukumarDangar)
 
 ## 📄 License
 
